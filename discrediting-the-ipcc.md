@@ -25,18 +25,18 @@ Interestingly, Mr. Ward mentions in his article that the rate of increase of glo
 
 #### Works Cited
 
-Grantham Research Institute on Climate Change and the Environment, 2014. *Bob Ward*. [online] Grantham Research Institute on climate change and the environment. Available at: <https://www.lse.ac.uk/granthaminstitute/profile/bob-ward/> [Accessed 7 Feb. 2021].
+Grantham Research Institute on Climate Change and the Environment, 2014. *Bob Ward*. [online] Grantham Research Institute on climate change and the environment. Available at: <<https://www.lse.ac.uk/granthaminstitute/profile/bob-ward/>> [Accessed 7 Feb. 2021].
 
-IPCC, 2016. *IPCC Conflict of Interest Policy*. [pdf] Available at: <https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-conflict-of-interest-2016.pdf> [Accessed 7 Feb. 2021].
+IPCC, 2016. *IPCC Conflict of Interest Policy*. [pdf] Available at: <<https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-conflict-of-interest-2016.pdf>> [Accessed 7 Feb. 2021].
 
-IPCC, n.d. *About — IPCC*. [online] Available at: <https://www.ipcc.ch/about/> [Accessed 7 Feb. 2021].
+IPCC, n.d. *About — IPCC*. [online] Available at: <<https://www.ipcc.ch/about/>> [Accessed 7 Feb. 2021].
 
-IPCC Secretariat, 2013. *IPCC Factsheet: How does the IPCC select its authors?* [pdf] Available at: <https://www.ipcc.ch/site/assets/uploads/2018/02/FS_select_authors.pdf> [Accessed 7 Feb. 2021].
+IPCC Secretariat, 2013. *IPCC Factsheet: How does the IPCC select its authors?* [pdf] Available at: <<https://www.ipcc.ch/site/assets/uploads/2018/02/FS_select_authors.pdf>> [Accessed 7 Feb. 2021].
 
 Napoli, C., 2012. Understanding Kyoto’s Failure. *SAIS Review of International Affairs*, 32(2), pp.183–196.
 
 Randall, D.A., Wood, R.A., Bony, S., Colman, R., Fichefet, T., Fyfe, J., Kattsov, V., Pitman, A., Shukla, J., Srinivasan, J., Stouffer, R.J., Sumi, A., Taylor, K.E., AchutaRao, K., Allan, R., Berger, A., Blatter, H., Bonﬁls, C., Boone, A., Bretherton, C., Broccoli, A., Brovkin, V., Dirmeyer, P., Doutriaux, C., Drange, H., Frei, A., Ganopolski, A., Gent, P., Gleckler, P., Goosse, H., Graham, R., Gregory, J.M., Gudgel, R., Hall, A., Hallegatte, S., Hasumi, H., Henderson-Sellers, A., Hendon, H., Hodges, K., Holland, M., Holtslag, A.A.M., Hunke, E., Huybrechts, P., Ingram, W., Joos, F., Kirtman, B., Klein, S., Koster, R., Kushner, P., Lanzante, J., Latif, M., Pavlova, T., Federationi, R., Petoukhov, V., Phillips, T., Power, S., Rahmstorf, S., Raper, S.C.B., Renssen, H., Rind, D., Roberts, M., Rosati, A., Schär, C., Schmittner, A., Scinocca, J., Seidov, D., Slater, A.G., Slingo, J., Smith, D., Soden, B., Stern, W., Stone, D.A., Sudo, K., Takemura, T., Tselioudis, G., Webb, M., Wild, M., Manzini, E., Matsuno, T. and McAvaney, B., 2007. Climate Models and Their Evaluation. *IPCC Fourth Assessment Report*, p.74.
 
-Thorne, A., 2011. *The Father of Global Warming Skepticism: An Interview with S Fred Singer*. [online] National Association of Scholars. Available at: <https://www.nas.org/blogs/article/the_father_of_global_warming_skepticism_an_interview_with_s_fred_singer> [Accessed 7 Feb. 2021].
+Thorne, A., 2011. *The Father of Global Warming Skepticism: An Interview with S Fred Singer*. [online] National Association of Scholars. Available at: <<https://www.nas.org/blogs/article/the_father_of_global_warming_skepticism_an_interview_with_s_fred_singer>> [Accessed 7 Feb. 2021].
 
-Ward, B., 2013. Climate change by the numbers. *Shanghai Daily*, [online] Available at: <https://archive.shine.cn/opinion/foreign-perspectives/Climate-change-by-the-numbers/shdaily.shtml> [Accessed 7 Feb. 2021].
+Ward, B., 2013. Climate change by the numbers. *Shanghai Daily*, [online] Available at: <<https://archive.shine.cn/opinion/foreign-perspectives/Climate-change-by-the-numbers/shdaily.shtml>> [Accessed 7 Feb. 2021].
